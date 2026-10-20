@@ -1,0 +1,2 @@
+requests>=2.31   # HTTP calls to the two sources
+pandas>=2.1      # DataFrames and merges
